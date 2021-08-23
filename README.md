@@ -1,1 +1,1 @@
-# predicao_diabetes
+# Predição de diabetes
